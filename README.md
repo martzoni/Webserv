@@ -93,4 +93,4 @@ server {
 
 ## 📝 License
 
-This project is part of the 42 school curriculum.
+This project is part of the 42 school curriculum and has been made in collaboration with @kazuma3845 and @NeahNoa.
